@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod_1",
+      "localizations": [
+        {
+          "description": "Track which household devices use which battery size and when you last restocked.",
+          "displayName": "BatteryDrawer Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.batterydrawer.pro",
+      "referenceName": "BatteryDrawer Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
